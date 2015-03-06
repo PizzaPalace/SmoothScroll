@@ -1,0 +1,9 @@
+<resources>
+    <string name="sample_content">Sample Content</string>
+    <string name="sample_image">Sample Image</string>
+    <string name="sample_string">Sample String</string>
+    <string name="app_name">ProjectX</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
